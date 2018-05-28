@@ -1,0 +1,5 @@
+$ pipenv shell
+- Activate virtualenv
+
+$ pipenv install <packagename>
+- Install a package
